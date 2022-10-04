@@ -1,4 +1,4 @@
-quick and dirty (very dirty, i'm aware this code isn't good) web server that tells you what gamefaqs pages aren't archived yet.
+quick and dirty (very dirty, i'm aware this code isn't good, i spent like 30 minutes on this) web server that tells you what gamefaqs pages aren't archived yet.
 
 ## Hosting this on your own machine
 
