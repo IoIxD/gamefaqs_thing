@@ -14,6 +14,7 @@ import (
 )
 
 func main() {
+	fmt.Println("running")
 	r := chi.NewRouter()
 	r.Get("/", gamefaqRedir)
 	r.Route("/{Location:.*}", func(r chi.Router) {

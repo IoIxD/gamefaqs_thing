@@ -8,5 +8,5 @@ basic knowledge of the terminal and whatnot is assumed
 - [get golang](https://go.dev/)  (in the installer make sure golang is added to your PATH, if you're on Windows)
 - open a terminal/command prompt/power shell
 - cd to the directory where you downloaded everything.
-- run `go run .`. If you get an error about an recognized command, go is not in your PATH. do also note this is untested on windows.
+- run `go run .`. you'll need to wait a bit while dependencies download. If you get an error about an recognized command, go is not in your PATH. do also note this is untested on windows. when all is done, you should get a "running" message
 - go to "localhost:8085" in your browser.
